@@ -31,6 +31,22 @@
     .slider-text {
         background-color: #00807242 !important;
     }
+    .trending-image {
+        height : 100px;
+    }
+    .trending-item {
+        float: left;
+        width: 20% ;
+    }
+    .trending-wrapper{
+        margin : 30px ;
+    }
+    .detail-img {
+        height: 200px;
+    }
+    .search-box{
+        width: 500px !important;
+    }
 
 </style>
 
