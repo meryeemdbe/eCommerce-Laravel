@@ -18,10 +18,20 @@
     {{View::make('footer')}}
 </body>
 <style> 
-.custom-login{
-    height:500px;
-    padding-top: 10px;
-}
+    .custom-login{
+        height:500px;
+        padding-top: 10px;
+    }
+    .slider-img{
+        height: 400px !important;
+    }
+    .custom-product{
+        height:600px;
+    }
+    .slider-text {
+        background-color: #00807242 !important;
+    }
+
 </style>
 
 </html>
